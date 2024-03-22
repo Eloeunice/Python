@@ -1,0 +1,7 @@
+m = float(input('Valor:'))
+print('Metros: {}'.format(m))
+print('Centímetro: {}'.format(m*100))
+print('Milímetros: {:.3f}'.format(m*1000))
+print('Quilômetros: {}'.format(m/1000))
+print('Hectômetros: {}'.format(m/100))
+print('Decâmetro: {}'.format(m/10))
