@@ -1,5 +1,5 @@
 # Python
-Aqui estão as minhas anotações a medida que vou me aprofundando na linguagem Python.
+Aqui estão as minhas anotações de aprendizado na linguagem Python.
 
 # Índice
 1.
